@@ -1,0 +1,25 @@
+# Title
+Popularity and sentiment analysis of Trump's tweets across the world.
+
+# Abstract
+Map on world reaction to Trump's tweets, showing popularity and sentiment analysis.
+
+A 150 word description of the project idea, goals, dataset used. What story you would like to tell and why? What's the motivation behind your project?
+
+# Research questions
+Are Trump's tweets equally popular across countries?
+Do countries show different sentiments in reaction to Trump's tweets?
+Do we observe similar reactions to tweets that have the same topic?
+How do the countries' reactions to a topic evolve over time?
+
+# Dataset
+Trump's tweets dataset in the spreadsheet.
+Any other information we can fetch through Twitter's API.
+
+# A list of internal milestones up until project milestone 2
+1. Getting data from Twitter
+2. Classification of Trump's tweets by topic
+3. Classify users' reaction to a topic by sentiment and country.
+4. Plot a world map for each topic
+5. Animate the evolution of the reactions to the topics over time
+# Questions for TAa
