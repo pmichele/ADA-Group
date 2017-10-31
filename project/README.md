@@ -2,9 +2,7 @@
 Popularity and sentiment analysis of Trump's tweets across the world.
 
 # Abstract
-Map on world reaction to Trump's tweets, showing popularity and sentiment analysis.
-
-A 150 word description of the project idea, goals, dataset used. What story you would like to tell and why? What's the motivation behind your project?
+The main idea for this project is to study Trump's tweets in order to highlight positive and negative reactions depending on regions (or countries) in the world. This will be based on information in Trump's tweets: it might be country based (for example North Corea) or topic based (for example Obamacare). So Twitter's database (accessed via API) will be used extensively, studying retweets and likes in his tweets. Finally, the evolution of reactions to certain information will also be studied, based on the date of the tweets. The resulting analysis will be presented as a map, colored by reaction, fading to white when the number of reactions is low. This will help the viewer to spot relevant information: maybe countries in Europe react very differently compared to countries in Asia concerning a certain topic, or are not reacting at all.
 
 # Research questions
 Are Trump's tweets equally popular across countries?
