@@ -47,15 +47,6 @@ https://en.wikipedia.org/wiki/Choropleth_map) which shows the unemployment rate 
  Compare Switzerland's unemployment rate to that of the rest of Europe.
 
 
-
-
-
-
-
-
-
-
-
 2. Go to the [amstat](https://www.amstat.ch) website to find a dataset that includes the unemployment rates in Switzerland at a recent date.
 
    > *HINT* Go to the `details` tab to find the raw data you need. If you do not speak French, German or Italian, think of using free translation services to navigate your way through. 
