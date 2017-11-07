@@ -57,12 +57,20 @@ https://en.wikipedia.org/wiki/Choropleth_map) which shows the unemployment rate 
 
    Copy the map you have just created, but this time don't count in your statistics people who already have a job and are looking for a new one. How do your observations change ? You can repeat this with different choices of categories to see how selecting different metrics can lead to different interpretations of the same data.
 
-3. Use the [amstat](https://www.amstat.ch) website again to find a dataset that includes the unemployment rates in Switzerland at recent date, this time making a distinction between *Swiss* and *foreign* workers.
+3. Use the [amstat](https://www.amstat.ch) website again to find a dataset that includes the unemployment rates 
+in Switzerland at recent date, this time making a distinction between *Swiss* and *foreign* workers.
+The Economic Secretary (SECO) releases 
+[a monthly report](https://www.seco.admin.ch/seco/fr/home/Arbeit/Arbeitslosenversicherung/arbeitslosenzahlen.html)
+ on the state of the employment market. In the latest report (September 2017), it is noted that
+ there is a discrepancy between the unemployment rates for *foreign* (`5.1%`) and *Swiss* (`2.2%`) workers. 
 
-   The Economic Secretary (SECO) releases [a monthly report](https://www.seco.admin.ch/seco/fr/home/Arbeit/Arbeitslosenversicherung/arbeitslosenzahlen.html) on the state of the employment market. In the latest report (September 2017), it is noted that there is a discrepancy between the unemployment rates for *foreign* (`5.1%`) and *Swiss* (`2.2%`) workers. 
+   Show the difference in unemployment rates between the two categories in each canton on a Choropleth map 
+   (*hint* The easy way is to show two separate maps, but can you think of something better ?). 
+   Where are the differences most visible ? Why do you think that is ?
+   Now let's refine the analysis by adding the differences between age groups. 
+   As you may have guessed it is nearly impossible to plot so many variables on a map. 
+   Make a bar plot, which is a better suited visualization tool for this type of multivariate data.
 
-   Show the difference in unemployment rates between the two categories in each canton on a Choropleth map (*hint* The easy way is to show two separate maps, but can you think of something better ?). Where are the differences most visible ? Why do you think that is ?
-
-   Now let's refine the analysis by adding the differences between age groups. As you may have guessed it is nearly impossible to plot so many variables on a map. Make a bar plot, which is a better suited visualization tool for this type of multivariate data.
-
-4. *BONUS*: using the map you have just built, and the geographical information contained in it, could you give a *rough estimate* of the difference in unemployment rates between the areas divided by the [Röstigraben](https://en.wikipedia.org/wiki/R%C3%B6stigraben)?
+4. *BONUS*: using the map you have just built, and the geographical information contained in it, 
+could you give a *rough estimate* of the difference in unemployment rates between the areas divided 
+by the [Röstigraben](https://en.wikipedia.org/wiki/R%C3%B6stigraben)?
