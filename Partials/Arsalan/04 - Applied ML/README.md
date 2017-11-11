@@ -40,7 +40,7 @@ To summarize and compare the distributions, you may use the techniques we discus
 ("Read the stats carefully") and 6 ("Data visualization").
 
 What might a naive "researcher" conclude from this superficial analysis?
-
+ 
 #### 2. A closer look at the data
 
 You're not naive, of course (and even if you are, you've learned certain things in ADA), so you aren't content 
