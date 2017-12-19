@@ -8,7 +8,7 @@ The main idea for this project is to study Trump's tweets in order to highlight 
 Are Trump's tweets equally popular across countries?
 Do countries show different sentiments in reaction to Trump's tweets?
 Do we observe similar reactions to tweets that have the same topic?
-How do the countries' reactions to a topic evolve over time?
+How do the countries' reactions to a topic evolve over time? (may be unfeasible due to limits on download rates of data)
 
 # Dataset
 Trump's tweets dataset in the spreadsheet.

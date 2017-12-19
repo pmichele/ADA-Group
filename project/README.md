@@ -21,3 +21,8 @@ Any other information we can fetch through Twitter's API.
 4. Plot a world map for each topic
 5. Animate the evolution of the reactions to the topics over time
 # Questions for TAa
+
+# Contribution of the authors
+Michele Pettinato: the overall method, topic detection, machine learning model selection and optimization, data cleaning, writing the report.
+Arsalan Syed: Sentiment analysis, data wrangling, data retrieval, writing the report.
+Nicolas Buisson: Defining the main idea, poster, presentation.
